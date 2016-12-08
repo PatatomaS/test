@@ -1,1 +1,1 @@
-.repeat 5 Bonjour
+.repeat 5 "Bonjour";
