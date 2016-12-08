@@ -1,1 +1,1 @@
-Bonjour
+.repeat 5 Bonjour
